@@ -1,0 +1,16 @@
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmCreate.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmDeckBuying.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmEnterDeck.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmSims.resources
+C:\Users\cgsoc\Desktop\FinalProject\FinalProject\obj\x86\Debug\WindowsApplication1.frmAbout.resources
